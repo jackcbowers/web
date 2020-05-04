@@ -1,2 +1,2 @@
 # pweb
-A place for me to practice website development... Still learning!
+A practice website... not much here other than HTML, CSS and JS snippets... Enjoy?
